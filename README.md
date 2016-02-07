@@ -1,3 +1,5 @@
+#INSTRUCTIONS
+
 * Copy paste unityhttp into scripts folder
 
 * install json plugin into project from here https://www.assetstore.unity3d.com/en/#!/content/710
